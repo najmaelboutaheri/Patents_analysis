@@ -6,7 +6,7 @@ This repository contains code and resources for analyzing patents using Apache S
 
 ## Features
 
-- Data ingestion from USPTO (United States Patent and Trademark Office) and Google Patents.
+- Data ingestion from Google patents and others sources (WIPO, FPO...).
 - Preprocessing and cleaning of patent data.
 - Feature extraction and analysis, including keyword extraction and citation network analysis.
 - Visualization of patent trends and metrics using matplotlib and Seaborn.
