@@ -65,7 +65,7 @@ The workflow follows a **4-phase architecture**:
 ---
 
 ## Project Structure
-
+```bash
 ├── Analysis of Patents on Virus Engineering.pdf   # PDF report on virus engineering patents
 ├── ETL_PROCESS.ipynb                              # Notebook for the ETL process
 ├── Interface_DEMO.rar                             # Demo interface (compressed file)
@@ -74,7 +74,7 @@ The workflow follows a **4-phase architecture**:
 ├── Project_Presentation.pdf                       # Project presentation file
 ├── Projet_visualizations.pdf                      # Visualizations and insights in PDF
 └── README.md                                      # Project documentation
-
+```
 ---
 
 ## Installation
