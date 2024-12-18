@@ -116,8 +116,8 @@ Contributions are welcome! Follow these steps:
 ## Contact
 For questions, feedback, or collaborations, contact:
 
-Najma Elboutaher
-Email: najmaelboutaher@gmail.com
+Najma El boutaheri
+Email: najmaelboutaheri@gmail.com
 
 ## Acknowledgments
 Special thanks to all contributors and the open-source libraries used in this project.
