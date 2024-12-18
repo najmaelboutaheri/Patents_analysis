@@ -40,4 +40,4 @@ This repository contains code and resources for analyzing patents using Apache S
 
 Contributions to this project are welcome! If you have ideas for improvements or new features, feel free to submit a pull request or open an issue to discuss.
 ### Contact:
-For questions or feedback about this project, please contact loubna boukaoualoubna@example.com, najmaelboutaher@gmail.com, elmzourifatimazahra@gmail.com, elaissaouifatimaelzaherae@gmail.com, wanaimsaadia@gmail.com.
+For questions or feedback about this project, please contact najmaelboutaher@gmail.com.
