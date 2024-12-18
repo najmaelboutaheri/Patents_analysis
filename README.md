@@ -3,6 +3,8 @@
 ## Overview
 
 This repository contains code and resources for analyzing patents using Apache Spark, Python, and AWS services. The objective of this project is to extract insights and trends from patent data to inform business decisions and intellectual property strategies.
+## Architecture
+![image](https://github.com/user-attachments/assets/96d7982d-2c13-47b8-8cdc-203dccd6af05)
 
 ## Features
 
